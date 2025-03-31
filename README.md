@@ -12,7 +12,6 @@ This repository provides a Jupyter notebook-based workflow for predicting the as
 
 To clone this repository **including the required submodule**, use the following command:
 
-```bash
 git clone --recurse-submodules https://github.com/TimothyVoss99/Workflow-for-prediction-and-analysis-of-assembly-pathways-of-multi-protein-complexes-.git
 
 If you already cloned the repository without --recurse-submodules, you can initialize and update the submodule manually:
