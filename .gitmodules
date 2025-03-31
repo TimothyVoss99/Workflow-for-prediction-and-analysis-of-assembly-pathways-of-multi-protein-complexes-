@@ -1,0 +1,3 @@
+[submodule "PTGLtools"]
+	path = PTGLtools
+	url = https://github.com/MolBIFFM/PTGLtools.git
