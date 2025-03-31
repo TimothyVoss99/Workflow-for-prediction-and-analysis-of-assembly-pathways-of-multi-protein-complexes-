@@ -8,6 +8,16 @@ This repository provides a Jupyter notebook-based workflow for predicting the as
 - Implemented as an interactive Jupyter Notebook.
 - Uses PTGLTools to generate structural graphs from annotated protein structures.
 - Supports five clustering techniques to model and visualize the assembly process.
+## Installation
+
+To clone this repository **including the required submodule**, use the following command:
+
+```bash
+git clone --recurse-submodules https://github.com/TimothyVoss99/Workflow-for-prediction-and-analysis-of-assembly-pathways-of-multi-protein-complexes-.git
+
+If you already cloned the repository without --recurse-submodules, you can initialize and update the submodule manually:
+
+git submodule update --init --recursive
 
 ## User Guide
 
